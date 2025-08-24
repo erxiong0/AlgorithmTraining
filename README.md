@@ -1,3 +1,3 @@
 # AlgorithmTraining
-To finish exercises in \it{Introduction to Algorithms}
+To finish exercises in Introduction to Algorithms
 
